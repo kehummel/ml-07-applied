@@ -21,19 +21,23 @@ to get the example projects running on your machine.
 
 ## Phase 4. Technical Modification
 
-Describe your small technical modification to the example project.
+For my modification I created sweepers for flipper length and body mass.
 
-Include:
+I chose it because phase 4 is all about reproducing the example with a technical change and I figured it would be good practice to be able to apply this skill to other data sets.
 
-- What you changed
-- Why you chose that change
-- How you verified that it worked
-- What result, output, chart, metric, or behavior confirmed the change
+I verified that it worked by looking at the output and seeing that new graphs were created.
 
-Compared with the example project,
-explain what is different and why the change matters.
+I have three different charts for the features: bill length, flipper length, and body mass.
 
-Was it easy, or surprisingly challenging and why do you think so?
+This matters because it allows us to look at different features and how they change according to the species.
+
+![Bill Length Sweeper](./docs/images/p7_p4_bill_length_sweep.png)
+
+![Flipper Length Sweeper](./docs/images/p7_p4_flipper_length_sweep.png)
+
+![Body Mass Sweeper](./docs/images/p7_p4_body_mass_sweep.png)
+
+This was surprisingly challenging. On the two sweepers I created, they did not change between species. This is either because they are not strong enough of features to help predict species, or I did something wrong. I am betting that I did something wrong but I am not sure what to look at.
 
 ## Phase 5. Custom Project
 
