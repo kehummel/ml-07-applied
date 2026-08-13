@@ -1235,3 +1235,23 @@ dtype: int64
       58.421053  Chinstrap
       60.000000  Chinstrap
 2026-08-13 18:46:46 | INFO | M07 | ANALYST CHOICE: Where does the prediction shift and does that match your expectation?
+2026-08-13 19:01:01 | INFO | M07 | === RUN START ===
+2026-08-13 19:01:01 | INFO | M07 | project=M07
+2026-08-13 19:01:01 | INFO | M07 | repo_dir=ml-07-applied
+2026-08-13 19:01:01 | INFO | M07 | python=3.14.3
+2026-08-13 19:01:01 | INFO | M07 | os=Windows 11
+2026-08-13 19:01:01 | INFO | M07 | shell=powershell
+2026-08-13 19:01:01 | INFO | M07 | cwd=notebooks
+2026-08-13 19:01:01 | INFO | M07 | github_actions=False
+2026-08-13 19:01:01 | INFO | M07 | Confirming installation:
+2026-08-13 19:01:01 | INFO | M07 |   python:       3.14.3
+2026-08-13 19:01:01 | INFO | M07 |   pandas:       3.0.5
+2026-08-13 19:01:01 | INFO | M07 |   numpy:        2.5.2
+2026-08-13 19:01:01 | INFO | M07 |   scikit-learn: 1.9.0
+2026-08-13 19:01:01 | INFO | M07 |   seaborn:      0.13.2
+2026-08-13 19:01:01 | INFO | M07 |   matplotlib:   3.11.1
+2026-08-13 19:01:38 | INFO | M07 | ========================
+2026-08-13 19:01:38 | INFO | M07 | SUMMARY
+2026-08-13 19:01:38 | INFO | M07 | ========================
+2026-08-13 19:01:38 | INFO | M07 | API endpoint: https://ml-penguin-predictor.onrender.com/predict
+2026-08-13 19:01:38 | INFO | M07 | ========================
