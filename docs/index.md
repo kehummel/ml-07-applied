@@ -37,7 +37,7 @@ This matters because it allows us to look at different features and how they cha
 
 ![Body Mass Sweeper](./docs/images/p7_p4_body_mass_sweep.png)
 
-This was surprisingly challenging. On the two sweepers I created, they did not change between species. This is either because they are not strong enough of features to help predict species, or I did something wrong. I am betting that I did something wrong but I am not sure what to look at.
+This was surprisingly challenging. On the two sweepers I created, they did not change between species. This is either because they are not strong enough of features to help predict species, or I did something wrong. I changed multiple variables multiple times but the species never changed. I am betting that I did something wrong but I am not sure what to look at.
 
 ## Phase 5. Custom Project
 
